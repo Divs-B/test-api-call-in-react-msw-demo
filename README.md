@@ -1,3 +1,9 @@
+# Introduction
+
+The aim of this project is to make a GET request to the Studio Ghibli films API to display the titles of the films on the screen and to achieve React Testing on API call using Mock Service Worker Libraries https://mswjs.io/ .
+
+Studio Ghibli API docs: https://ghibliapi.herokuapp.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
